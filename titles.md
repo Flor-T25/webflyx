@@ -1,6 +1,11 @@
-On branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	titles.md
+[master dc4d2fe] B: 5 titles
+ 1 file changed, 6 insertions(+)
+ create mode 100644 titles.md
 
-nothing added to commit but untracked files present (use "git add" to track)
+# Titles
+
+- A River Runs Through It
+- Fight Club
+- 12 Years a Slave
+- The Big Short
+- 12 Monkeys
